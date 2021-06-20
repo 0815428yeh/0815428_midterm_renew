@@ -75,7 +75,13 @@ padding:50px 0;
   font-size: 20px;
 }
 
+.about img{
+ margin-top: 50px;
+}
 
+.socialmedia img{
+  margin-top: 10px;
+}
 
 .work {
   padding:150px 0;
